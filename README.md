@@ -17,3 +17,8 @@ npm test
 - `feature/nueva-funcionalidad`: desarrollo de nuevas funciones
 
 Autor: Edwin Alexander De Los Santos – Matrícula 2025-1032 (ITLA)
+
+## Tamaños de vaso
+- Pequeño: 10 oz
+- Mediano: 20 oz
+- Grande: 30 oz
