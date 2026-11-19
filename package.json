@@ -1,0 +1,7 @@
+{
+  "name": "tdd-maquina-cafe",
+  "version": "1.0.0",
+  "description": "Ejercicio TDD: Máquina de Café",
+  "scripts": { "test": "node --test" },
+  "license": "MIT"
+}
